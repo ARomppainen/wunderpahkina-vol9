@@ -1,0 +1,6 @@
+[package]
+name = "wunderpahkina_vol9"
+version = "0.1.0"
+authors = ["Aleksi Romppainen <aromppa@gmail.com>"]
+
+[dependencies]
